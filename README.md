@@ -1,1 +1,2 @@
 # Robotics-and-Autonomous-Systems_M1
+Developed an autonomous driving algorithm using the Webots simulator. Implemented a vision-based navigation system for real-time path planning, allowing the robot to make autonomous decisions based on camera input. Integrated object detection to recognize and respond to traffic signs. Designed and implemented an energy management system, enabling the robot to autonomously navigate to charging stations and optimize power consumption.
